@@ -1,0 +1,2 @@
+- `npm run dev` to start the local server
+- `npm run build` to build the static `dist/` folder

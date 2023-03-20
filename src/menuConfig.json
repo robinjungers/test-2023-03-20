@@ -1,0 +1,94 @@
+[
+  {
+    "label" : "designplox"
+  },
+  {
+    "label" : "artists",
+    "items" : [
+      {
+        "label" : "Mobb Deep"
+      },
+      {
+        "label" : "Dinamarca"
+      }
+    ]
+  },
+  {
+    "label" : "albums",
+    "items" : [
+      {
+        "label" : "The Infamous",
+        "items" : [
+          {
+            "label" : "Up North Trip"
+          },
+          {
+            "label" : "Tribe Life"
+          },
+          {
+            "label" : "Shook Ones, Pt. II"
+          }
+        ]
+      },
+      {
+        "label" : "Sol De Mi Vida",
+        "items" : [
+          {
+            "label" : "Dino"
+          },
+          {
+            "label" : "Jevi"
+          },
+          {
+            "label" : "Campana"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label" : "songs",
+    "items" : [
+      {
+        "label" : "Up North Trip"
+      },
+      {
+        "label" : "Tribe Life"
+      },
+      {
+        "label" : "Shook Ones, Pt. II"
+      },
+      {
+        "label" : "Dino"
+      },
+      {
+        "label" : "Jevi"
+      },
+      {
+        "label" : "Campana"
+      }
+    ]
+  },
+  {
+    "label" : "genres",
+    "items" : [
+      {
+        "label" : "Hip-Hop"
+      },
+      {
+        "label" : "Reggaeton"
+      }
+    ]
+  },
+  {
+    "label" : "settings",
+    "items" : [
+      {
+        "label" : "playback"
+      },
+      {
+        "label" : "cache"
+      }
+    ]
+  }
+]

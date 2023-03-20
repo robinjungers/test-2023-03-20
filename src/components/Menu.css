@@ -1,0 +1,33 @@
+.Menu
+{
+  overflow: hidden;
+  width: 500px; 
+}
+.Menu_Carousel
+{
+  display: flex;
+  align-items: flex-start;
+  animation-duration: 0.3s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+}
+.Menu_Carousel-SlideForward
+{
+  animation-name: slide-forward;
+  flex-direction: row;
+}
+.Menu_Carousel-SlideBackward
+{
+  animation-name: slide-backward;
+  flex-direction: row-reverse;
+}
+@keyframes slide-forward
+{
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(-500px); }
+}
+@keyframes slide-backward
+{
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(500px); }
+}

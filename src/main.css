@@ -1,8 +1,20 @@
 html, body,
-div, span
+div, span, button
 {
   margin: 0;
   padding: 0;
   color: inherit;
   font: inherit;
+  border: none;
+  background: transparent;
+  appearance: none;
+  outline: none;
+  text-align: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  box-sizing: border-box;
+}
+button
+{
+  cursor: pointer;
 }
